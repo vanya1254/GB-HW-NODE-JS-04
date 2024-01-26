@@ -1,0 +1,42 @@
+{
+  "/": "http://localhost:3000/",
+  "/users": "http://localhost:3000/users",
+  "users": [
+    {
+      "id": 1,
+      "href": "http://localhost:3000/users/1",
+      "name": "Ivan",
+      "email": "vanya1234@gmail.com",
+      "login": "vanya1234",
+      "password": "123vanya12534",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "href": "http://localhost:3000/users/2",
+      "name": "Kolya",
+      "email": "kolya@gmail.com",
+      "login": "Kolya1234",
+      "password": "123Kolya12534",
+      "age": 33
+    },
+    {
+      "id": 3,
+      "href": "http://localhost:3000/users/3",
+      "name": "ikosfdl",
+      "email": "true@gmail.com",
+      "login": "agggssaff33f",
+      "password": "safebb",
+      "age": 19
+    },
+    {
+      "id": 4,
+      "href": "http://localhost:3000/users/4",
+      "name": "article",
+      "email": "false@gmail.com",
+      "login": "asf33f",
+      "password": "safebb",
+      "age": 18
+    }
+  ]
+}
